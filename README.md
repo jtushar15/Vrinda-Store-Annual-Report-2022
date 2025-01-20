@@ -23,9 +23,6 @@ Data Processing: Two columns ‘Age Group’ and ‘Month’ were added for deep
 Data analysis: Pivot Tables were created for uncovering patterns and trends.
 Data Visualization: Various Charts, graphs and slicers were created for visualizing the key insights.
 
-Dashboard:
-
-
 Project Insights:
 
 Women customers are more likely to buy products compared to men (~65%).
